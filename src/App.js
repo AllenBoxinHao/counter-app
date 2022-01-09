@@ -1,11 +1,10 @@
-import "./App.css";
-import Movies from "./components/movies";
+import App2 from "./App2";
 
 function App() {
   return (
-    <main className="container">
-      <Movies />
-    </main>
+    <>
+      <App2 />
+    </>
   );
 }
 
